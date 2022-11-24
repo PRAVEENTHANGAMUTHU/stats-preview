@@ -115,6 +115,11 @@ main {
 }
 
 @media (max-width: 750px) {
+
+  main{
+    height: 92vh;
+  }
+
   .card {
     height: 85vh;
     width: 75vw;
