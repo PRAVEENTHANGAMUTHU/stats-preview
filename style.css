@@ -119,8 +119,8 @@ main{
 @media (max-width: 750px){
     
     .card{
-        height: 85vh;
-        width: 70vw;
+        height: 90vh;
+        width: 80vw;
         display: block;
         border-radius: 9px;
     }
