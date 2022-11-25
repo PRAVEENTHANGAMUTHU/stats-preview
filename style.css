@@ -17,6 +17,7 @@
 
 body {
   background-color: var(--main-background);
+  font-size: 15px;
 }
 
 main {
@@ -28,7 +29,7 @@ main {
 }
 
 .card {
-  height: 60vh;
+  height: 50vh;
   width: 80vw;
   background-color: var(--card-background);
   display: flex;
